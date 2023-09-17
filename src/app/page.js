@@ -39,7 +39,7 @@ export default function Home() {
         </div>
 
         <div>
-          <img src="/img/dev-ed-wave.png" alt="" />
+          <img src="./img/dev-ed-wave.png" alt="" />
         </div>
       </section>
     </main>
